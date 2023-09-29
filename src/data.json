@@ -1,0 +1,229 @@
+{
+  "events": [
+    {
+      "name": "Disco party",
+      "date": "2019/02/01",
+      "description": "Rodenden luda zabava",
+      "userId": "ALXhxjwgY9PinwNGHpfai6OWyDu2",
+      "id": "-KsjWehQ--apjDBwSBCZ"
+    },
+    {
+      "name": "Hoce neko na basket",
+      "date": "2019/02/01",
+      "description": "Ajde da se malo poigramo",
+      "userId": "FsCDAk9w8NeXEceLV87arpsXjnQ2",
+      "id": "-KsjefUiIuNkJieBc5Rq"
+    },
+    {
+      "name": "Fudbal event",
+      "date": "2019/02/01",
+      "description": "U malo da svrtime nekoj fudbal",
+      "userId": "FsCDAk9w8NeXEceLV87arpsXjnQ2",
+      "id": "-KsjfvciJhJnebrL4Iw7"
+    },
+    {
+      "name": "Onaka",
+      "date": "2019/02/01",
+      "description": "Bash onaka",
+      "userId": "ALXhxjwgY9PinwNGHpfai6OWyDu2",
+      "id": "-KsjtHy6c__hABJWW9i7"
+    },
+    {
+      "name": "Eve ushte eden event",
+      "date": "2019/02/01",
+      "description": "Da ima neshto u tabela",
+      "userId": "VXjpr2WHa8Ux4Bnggym8QFLdv5C3",
+      "id": "-KsjtRwwzHCcV55pKaQ-"
+    },
+    {
+      "name": "Petko Eden event",
+      "date": "2022/08/12",
+      "description": "Petko Eden event opis",
+      "userId": "FsCDAk9w8NeXEceLV87arpsXjnQ2",
+      "id": "-KsjtRwwzHCcV55pFaQ-"
+    },
+    {
+      "name": "Petko Dva event",
+      "date": "2018/12/12",
+      "description": "Petko tri event opis",
+      "userId": "FsCDAk9w8NeXEceLV87arpsXjnQ2",
+      "id": "-KsjtRwwzHCcV55pUaQ-"
+    },
+    {
+      "name": "Petko Tri event",
+      "date": "2019/06/01",
+      "description": "Petko chetri event opis",
+      "userId": "FsCDAk9w8NeXEceLV87arpsXjnQ2",
+      "id": "-KsjtRwwzHCcV55pMaQ-"
+    },
+    {
+      "name": "Petko chetri event",
+      "date": "2022/08/12",
+      "description": "Petko Dva event opis",
+      "userId": "FsCDAk9w8NeXEceLV87arpsXjnQ2",
+      "id": "-KsjtRwwzHCcV55pSaQ-"
+    },
+    {
+      "name": "Janko eden event",
+      "date": "2011/08/12",
+      "description": "Janko eden event opis",
+      "userId": "HJNTR1nN8tgbB148RJrPYbby8Vl1",
+      "id": "-KsjtSowzHCcV55pSaQ-"
+    },
+    {
+      "name": "Janko dva event",
+      "date": "2012/08/12",
+      "description": "Janko dva event opis",
+      "userId": "HJNTR1nN8tgbB148RJrPYbby8Vl1",
+      "id": "-KsjtMkwzHCcV55pSaQ-"
+    },
+    {
+      "name": "Janko tri event",
+      "date": "2007/08/12",
+      "description": "Janko tri event opis",
+      "userId": "HJNTR1nN8tgbB148RJrPYbby8Vl1",
+      "id": "-KsjtNfwzHCcV55pSaQ-"
+    },
+    {
+      "name": "Janko chetri event",
+      "date": "2002/08/12",
+      "description": "Janko chetri event opis",
+      "userId": "HJNTR1nN8tgbB148RJrPYbby8Vl1",
+      "id": "-KsjtQewzHCcV55pSaQ-"
+    },
+    {
+      "name": "Stanko eden event",
+      "date": "2023/08/12",
+      "description": "Stanko eden event opis",
+      "userId": "L664y3qZSubDbT1R6npC0EEybJ73",
+      "id": "-KsjtQewzOPcV55pSaQ-"
+    },
+    {
+      "name": "Stanko dva event",
+      "date": "2023/09/12",
+      "description": "Stanko dva event opis",
+      "userId": "L664y3qZSubDbT1R6npC0EEybJ73",
+      "id": "-KsjtQewzUScV55pSaQ-"
+    },
+    {
+      "name": "Stanko tri event",
+      "date": "2001/05/12",
+      "description": "Stanko tri event opis",
+      "userId": "L664y3qZSubDbT1R6npC0EEybJ73",
+      "id": "-KsjtQewzJNcV55pSaQ-"
+    },
+    {
+      "name": "Stanko chetri event",
+      "date": "2000/07/27",
+      "description": "Stanko chetri event opis",
+      "userId": "L664y3qZSubDbT1R6npC0EEybJ73",
+      "id": "-KsjtQewzLQcV55pSaQ-"
+    },
+    {
+      "name": "Branko eden event",
+      "date": "2008/12/25",
+      "description": "Branko eden event opis",
+      "userId": "38St7Q8Zi2N1SPa5ahzssq9kbyp1",
+      "id": "-KsjtQyhzLQcV55pSaQ-"
+    },
+    {
+      "name": "Branko dva event",
+      "date": "2020/03/03",
+      "description": "Branko dva event opis",
+      "userId": "38St7Q8Zi2N1SPa5ahzssq9kbyp1",
+      "id": "-KsjtQsazLQcV55pSaQ-"
+    },
+    {
+      "name": "Branko tri event",
+      "date": "2004/05/06",
+      "description": "Branko tri event opis",
+      "userId": "38St7Q8Zi2N1SPa5ahzssq9kbyp1",
+      "id": "-KsjtQnkzLQcV55pSaQ-"
+    },
+    {
+      "name": "Branko chetri event",
+      "date": "2011/01/01",
+      "description": "Branko chetri event opis",
+      "userId": "38St7Q8Zi2N1SPa5ahzssq9kbyp1",
+      "id": "-KsjtQmouLQcV55pSaQ-"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Dushko",
+      "lastname": "Dolgoushko",
+      "username": "dudo",
+      "email": "dudo@lunituns.com",
+      "events": ["-KsjWehQ--apjDBwSBCZ", "-KsjtHy6c__hABJWW9i7"],
+      "id": "ALXhxjwgY9PinwNGHpfai6OWyDu2"
+    },
+    {
+      "firstname": "Pajo",
+      "lastname": "Patorot",
+      "username": "pajo",
+      "email": "pajo@lunituns.com",
+      "events": ["-KsjefUiIuNkJieBc5Rq", "-KsjfvciJhJnebrL4Iw7"],
+      "id": "FsCDAk9w8NeXEceLV87arpsXjnQ2"
+    },
+    {
+      "firstname": "Dafi",
+      "lastname": "Dak",
+      "username": "dafko",
+      "email": "dafko@lunituns.com",
+      "events": ["-KsjtRwwzHCcV55pKaQ-"],
+      "id": "VXjpr2WHa8Ux4Bnggym8QFLdv5C3"
+    },
+    {
+      "firstname": "Petko",
+      "lastname": "Petkovski",
+      "username": "petko",
+      "email": "petko@lunituns.com",
+      "events": [
+        "-KsjtRwwzHCcV55pFaQ-",
+        "-KsjtRwwzHCcV55pUaQ-",
+        "-KsjtRwwzHCcV55pMaQ-",
+        "-KsjtRwwzHCcV55pSaQ-"
+      ],
+      "id": "FsCDAk9w8NeXEceLV87arpsXjnQ2"
+    },
+    {
+      "firstname": "Janko",
+      "lastname": "Jankovski",
+      "username": "janko",
+      "email": "janko@lunituns.com",
+      "events": [
+        "-KsjtSowzHCcV55pSaQ-",
+        "-KsjtMkwzHCcV55pSaQ-",
+        "-KsjtNfwzHCcV55pSaQ-",
+        "-KsjtQewzHCcV55pSaQ-"
+      ],
+      "id": "HJNTR1nN8tgbB148RJrPYbby8Vl1"
+    },
+    {
+      "firstname": "Stanko",
+      "lastname": "Stankovski",
+      "username": "stanko",
+      "email": "stanko@lunituns.com",
+      "events": [
+        "-KsjtQewzOPcV55pSaQ-",
+        "-KsjtQewzUScV55pSaQ-",
+        "-KsjtQewzJNcV55pSaQ-",
+        "-KsjtQewzLQcV55pSaQ-"
+      ],
+      "id": "L664y3qZSubDbT1R6npC0EEybJ73"
+    },
+    {
+      "firstname": "Branko",
+      "lastname": "Brankovski",
+      "username": "branko",
+      "email": "branko@lunituns.com",
+      "events": [
+        "-KsjtQyhzLQcV55pSaQ-",
+        "-KsjtQsazLQcV55pSaQ-",
+        "-KsjtQnkzLQcV55pSaQ-",
+        "-KsjtQmouLQcV55pSaQ-"
+      ],
+      "id": "38St7Q8Zi2N1SPa5ahzssq9kbyp1"
+    }
+  ]
+}
